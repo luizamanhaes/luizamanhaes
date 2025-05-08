@@ -4,7 +4,7 @@
 
 ---
 
-### ✨ About Me
+### ✨ About me
 
 I started coding while studying Information Systems — and instead of taking the easy route, I co-founded a fintech startup before I even graduated. Since then, I've been building everything from crypto wallets to distributed backend systems that don’t collapse when users show up.
 
@@ -14,7 +14,7 @@ Outside of work, I’m probably finding new artists to obsess over or catching u
 
 ---
 
-### 🔧 Tech Playground
+### 🔧 Tech playground
 
 - **Frontend:** React, Redux, React Query, Urql
 - **Backend:** Node.js, TypeScript, Go, Fastify, Express
@@ -34,7 +34,7 @@ Outside of work, I’m probably finding new artists to obsess over or catching u
 
 ---
 
-### 📬 Connect With Me
+### 📬 Send me good music
 
 📫 luizamanhaes1@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/luiza-manh%C3%A3es)
